@@ -1,6 +1,6 @@
 Criar um exemplo de uma classe para representar uma SmartTv.
 
-1.Características: ligada(boolean), canal(int) e volume(int);
+1. Características: ligada(boolean), canal(int) e volume(int);
 
 2. Nossa TV poderá ligar e desligar e assim mudar o estado ligada;
 
